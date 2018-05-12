@@ -1,0 +1,28 @@
+_repo: What-Necessity-Knows_16398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dougall, L. (Lily)
+    alias: Dougall, Lily
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '6678'
+    url: http://www.gutenberg.org/2009/agents/6678
+    wikipedia: http://www2.marianopolis.edu/quebechistory/encyclopedia/LilyDougall-QuebecHistory.htm
+description: ''
+gutenberg_issued: '2005-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: What Necessity Knows
+url: http://www.gutenberg.org/ebooks/16398
